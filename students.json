@@ -1,0 +1,32 @@
+{
+    "101": {
+        "name": "Rahul",
+        "age": 17,
+        "marks": 85.0
+    },
+    "102": {
+        "name": "Kartik",
+        "age": 17,
+        "marks": 87.0
+    },
+    "103": {
+        "name": "Divya",
+        "age": 17,
+        "marks": 82.0
+    },
+    "104": {
+        "name": "Bhavesh",
+        "age": 17,
+        "marks": 89.0
+    },
+    "105": {
+        "name": "Jugnesh",
+        "age": 17,
+        "marks": 87.0
+    },
+    "106": {
+        "name": "Gaurav",
+        "age": 17,
+        "marks": 89.0
+    }
+}
